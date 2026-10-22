@@ -1,7 +1,7 @@
 This is a test file to show how diffs work in git:
 
 
-[200~Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin condimentum iaculis orci sed accumsan. Sed laoreet risus at blandit vulputate. Aenean in vulputate mauris. Suspendisse non nunc eu metus consectetur dignissim. Nullam feugiat cursus imperdiet. Ut facilisis metus at vehicula egestas. Aenean ullamcorper dui at tristique ullamcorper. Sed porttitor scelerisque felis vitae ornare. Ut efficitur ullamcorper lorem eget fringilla. Nunc ultricies velit et urna bibendum scelerisque.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin condimentum iaculis orci sed accumsan. Sed laoreet risus at blandit vulputate. Aenean in vulputate mauris. Suspendisse non nunc eu metus consectetur dignissim. Nullam feugiat cursus imperdiet. Ut facilisis metus at vehicula egestas. Aenean ullamcorper dui at tristique ullamcorper. Sed porttitor scelerisque felis vitae ornare. Ut efficitur ullamcorper lorem eget fringilla. Nunc ultricies velit et urna bibendum scelerisque.
 
 Cras accumsan odio a tempor imperdiet. Cras ornare ut magna sit amet tristique. Fusce felis purus, bibendum ut dui tincidunt, hendrerit iaculis purus. Ut vel efficitur dui, et vestibulum urna. Ut lectus ligula, finibus eget ex a, vestibulum pulvinar neque. Aliquam et ornare urna. Phasellus tincidunt sem lectus, eget accumsan est lacinia at. Vivamus pellentesque luctus nulla fermentum semper. Etiam porttitor sagittis est ut ultricies. Nam non eros aliquet, tincidunt nisi finibus, bibendum mauris.
 
